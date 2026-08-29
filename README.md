@@ -10,7 +10,7 @@ This platform was built to solve the fragmentation typically found in regional s
 ---
 
 ## 🎯 The Reason Behind This Project
-As a  Statistics and Economics graduate building towards a career in data science and analytics, I created this platform to bridge the gap between theoretical quantitative models and real-world enterprise operations. Rather than building isolated scripts or static dashboards, this project was designed as a complete, end-to-end portfolio piece to demonstrate my capability in:
+As a Statistics and Economics graduate building towards a career in data science and analytics, I created this platform to bridge the gap between theoretical quantitative models and real-world enterprise operations. Rather than building isolated scripts or static dashboards, this project was designed as a complete, end-to-end portfolio piece to demonstrate my capability in:
 - Engineering relational database schemas and extracting clean analytical views using **MySQL**.
 - Developing production-ready machine learning models using **Scikit-Learn** for predictive cost estimation.
 - Designing interactive, data-driven web applications and geospatial visualizations using **Python, Streamlit, and PyDeck**.
