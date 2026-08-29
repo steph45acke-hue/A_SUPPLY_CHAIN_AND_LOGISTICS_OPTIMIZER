@@ -1,5 +1,6 @@
-# 🚚 Supply Chain & Logistics Intelligence Platform
 ![Supply Chain & Logistics Intelligence Platform Banner](banner.png)
+
+# 🚚 Supply Chain & Logistics Intelligence Platform
 
 ## 📖 Project Overview & Story
 When building a modern data portfolio, assembling static dashboards in Excel or writing SQL queries in isolation only tells half the story. This system bridges raw transactional data sitting in a relational database, machine learning predictive modeling, geospatial logistics visualization, and automated executive reporting into a single, cohesive web application. 
@@ -9,7 +10,7 @@ This platform was built to solve the fragmentation typically found in regional s
 ---
 
 ## 🎯 The Reason Behind This Project
-As a Statistics and Economics graduate  building towards a career in data science and analytics, I created this platform to bridge the gap between theoretical quantitative models and real-world enterprise operations. Rather than building isolated scripts or static dashboards, this project was designed as a complete, end-to-end portfolio piece to demonstrate my capability in:
+As a  Statistics and Economics graduate building towards a career in data science and analytics, I created this platform to bridge the gap between theoretical quantitative models and real-world enterprise operations. Rather than building isolated scripts or static dashboards, this project was designed as a complete, end-to-end portfolio piece to demonstrate my capability in:
 - Engineering relational database schemas and extracting clean analytical views using **MySQL**.
 - Developing production-ready machine learning models using **Scikit-Learn** for predictive cost estimation.
 - Designing interactive, data-driven web applications and geospatial visualizations using **Python, Streamlit, and PyDeck**.
@@ -39,7 +40,7 @@ This platform automates and unifies the entire workflow:
 - **Programming Language:** Python.
 - **Data Manipulation & Analysis:** Pandas, NumPy.
 - **Machine Learning:** Scikit-Learn (`LinearRegression`, `train_test_split`, evaluation metrics).
-- **Web UI & Geospatial Viz:** treamlit, PyDeck.
+- **Web UI & Geospatial Viz:** Streamlit, PyDeck.
 - **Reporting Engine:** OpenPyXL.
 
 ---
