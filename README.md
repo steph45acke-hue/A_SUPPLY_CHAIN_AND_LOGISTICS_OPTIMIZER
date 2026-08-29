@@ -10,7 +10,7 @@ This platform was built to solve the fragmentation typically found in regional s
 ---
 
 ## 🎯 The Reason Behind This Project
-As a Statistics and Economics  graduate building towards a career in data science and analytics, I created this platform to bridge the gap between theoretical quantitative models and real-world enterprise operations. Rather than building isolated scripts or static dashboards, this project was designed as a complete, end-to-end portfolio piece to demonstrate my capability in:
+As a  Statistics and Economics graduate  building towards a career in data science and analytics, I created this platform to bridge the gap between theoretical quantitative models and real-world enterprise operations. Rather than building isolated scripts or static dashboards, this project was designed as a complete, end-to-end portfolio piece to demonstrate my capability in:
 - Engineering relational database schemas and extracting clean analytical views using **MySQL**.
 - Developing production-ready machine learning models using **Scikit-Learn** for predictive cost estimation.
 - Designing interactive, data-driven web applications and geospatial visualizations using **Python, Streamlit, and PyDeck**.
@@ -52,25 +52,25 @@ This platform automates and unifies the entire workflow:
 
 <p align="center">
   <b>Shipment Details View</b><br>
-  <img src="Screenshot%20(173).jpg" width="85%"><br><br>
+  <img src="Screenshot%20(173).png" width="85%"><br><br>
   
   <b>Carrier Performance View</b><br>
-  <img src="Screenshot%20(174).jpg" width="85%"><br><br>
+  <img src="Screenshot%20(174).png" width="85%"><br><br>
   
   <b>Warehouse Activity View</b><br>
-  <img src="Screenshot%20(175).jpg" width="85%"><br><br>
+  <img src="Screenshot%20(175).png" width="85%"><br><br>
   
   <b>Route Cost & Distance Efficiency View</b><br>
-  <img src="Screenshot%20(176).jpg" width="85%"><br><br>
+  <img src="Screenshot%20(176).png" width="85%"><br><br>
   
   <b>Executive Monthly Summary View</b><br>
-  <img src="Screenshot%20(177).jpg" width="85%"><br><br>
+  <img src="Screenshot%20(177).png" width="85%"><br><br>
   
   <b>Carrier Ranking View</b><br>
-  <img src="Screenshot%20(178).jpg" width="85%"><br><br>
+  <img src="Screenshot%20(178).png" width="85%"><br><br>
   
   <b>Monthly Financial Trends View</b><br>
-  <img src="Screenshot%20(179).jpg" width="85%">
+  <img src="Screenshot%20(179).png" width="85%">
 </p>
 
 * **Explanation:** These screenshots capture the database engineering foundation inside MySQL Workbench. They show the creation and verification of normalized tables and analytical views (`vw_shipment_details`, `vw_carrier_performance`, `vw_warehouse_activity`, `vw_route_efficiency`, and `vw_monthly_summary`), which aggregate millions of rows of supply chain telemetry into clean data sources ready for python ingestion.
