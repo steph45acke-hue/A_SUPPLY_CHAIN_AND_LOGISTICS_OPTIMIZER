@@ -1,4 +1,6 @@
-![Supply Chain & Logistics Intelligence Platform Banner](https://raw.githubusercontent.com/steph45acke-hue/A_SUPPLY_CHAIN_AND_LOGISTICS_OPTIMIZER/main/banner.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/steph45acke-hue/A_SUPPLY_CHAIN_AND_LOGISTICS_OPTIMIZER/main/banner.png" alt="Supply Chain & Logistics Intelligence Platform Banner" width="100%">
+</p>
 
 # 🚚 Supply Chain & Logistics Intelligence Platform
 
@@ -77,18 +79,24 @@ This platform automates and unifies the entire workflow:
 
 ### 2. Python Terminal Pipelines & Model Training Layer
 * **Visual Representation:** 
-  * ![Python Terminal Database Connection Test](https://raw.githubusercontent.com/steph45acke-hue/A_SUPPLY_CHAIN_AND_LOGISTICS_OPTIMIZER/main/Screenshot%20(180).png)
-  * ![Scikit-Learn Model Training Output](https://raw.githubusercontent.com/steph45acke-hue/A_SUPPLY_CHAIN_AND_LOGISTICS_OPTIMIZER/main/Screenshot%20(181).png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/steph45acke-hue/A_SUPPLY_CHAIN_AND_LOGISTICS_OPTIMIZER/main/Screenshot%20(180).png" width="85%"><br><br>
+  <img src="https://raw.githubusercontent.com/steph45acke-hue/A_SUPPLY_CHAIN_AND_LOGISTICS_OPTIMIZER/main/Screenshot%20(181).png" width="85%">
+</p>
+
 * **Explanation:** These terminal execution captures demonstrate the backend data connection and machine learning training pipeline. They verify successful database connectivity via `db.py` returning sample records, and show the execution of `model.py` generating statistical summaries and training the Scikit-Learn linear regression cost predictor, achieving a high accuracy score ($R^2 = 0.9454$) with calculated distance and weight coefficients.
 
 ### 3. Streamlit Executive Dashboard & Geospatial Hub
 * **Visual Representation:** 
-  * ![Regional Logistics Hub Map View](https://raw.githubusercontent.com/steph45acke-hue/A_SUPPLY_CHAIN_AND_LOGISTICS_OPTIMIZER/main/Screenshot%20(185).jpg)
-  * ![Executive KPIs and Geospatial Hub Header](https://raw.githubusercontent.com/steph45acke-hue/A_SUPPLY_CHAIN_AND_LOGISTICS_OPTIMIZER/main/Screenshot%20(186).jpg)
-  * ![Executive Dashboard and Predictive Cost Estimator](https://raw.githubusercontent.com/steph45acke-hue/A_SUPPLY_CHAIN_AND_LOGISTICS_OPTIMIZER/main/Screenshot%20(182).png)
-  * ![Monthly Spend Trend and Carrier On-Time Performance Charts](https://raw.githubusercontent.com/steph45acke-hue/A_SUPPLY_CHAIN_AND_LOGISTICS_OPTIMIZER/main/Screenshot%20(183).png)
-  * ![Complete Route Efficiency Data Explorer Grid](https://raw.githubusercontent.com/steph45acke-hue/A_SUPPLY_CHAIN_AND_LOGISTICS_OPTIMIZER/main/Screenshot%20(184).png)
-  * ![Complete Route Efficiency Data Explorer Grid Alternative View](https://raw.githubusercontent.com/steph45acke-hue/A_SUPPLY_CHAIN_AND_LOGISTICS_OPTIMIZER/main/Screenshot%20(187).png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/steph45acke-hue/A_SUPPLY_CHAIN_AND_LOGISTICS_OPTIMIZER/main/Screenshot%20(185).jpg" width="85%"><br><br>
+  <img src="https://raw.githubusercontent.com/steph45acke-hue/A_SUPPLY_CHAIN_AND_LOGISTICS_OPTIMIZER/main/Screenshot%20(186).jpg" width="85%"><br><br>
+  <img src="https://raw.githubusercontent.com/steph45acke-hue/A_SUPPLY_CHAIN_AND_LOGISTICS_OPTIMIZER/main/Screenshot%20(182).png" width="85%"><br><br>
+  <img src="https://raw.githubusercontent.com/steph45acke-hue/A_SUPPLY_CHAIN_AND_LOGISTICS_OPTIMIZER/main/Screenshot%20(183).png" width="85%"><br><br>
+  <img src="https://raw.githubusercontent.com/steph45acke-hue/A_SUPPLY_CHAIN_AND_LOGISTICS_OPTIMIZER/main/Screenshot%20(184).png" width="85%"><br><br>
+  <img src="https://raw.githubusercontent.com/steph45acke-hue/A_SUPPLY_CHAIN_AND_LOGISTICS_OPTIMIZER/main/Screenshot%20(187).png" width="85%">
+</p>
+
 * **Explanation:** These interface screenshots illustrate the frontend web application built using Streamlit and PyDeck. They display the top-level executive KPI metrics (Total Logistics Spend, Total Tracked Shipments, and Average Cost per Kilometer), the 3D PyDeck arc-line map mapping active trade routes across East African transit nodes, the interactive machine learning slider widget estimating shipping costs in real-time, the analytical charts tracking monthly financial trends and carrier on-time performance percentages, and the fully interactive data explorer grid housing complete route efficiency records.
 
 ---
