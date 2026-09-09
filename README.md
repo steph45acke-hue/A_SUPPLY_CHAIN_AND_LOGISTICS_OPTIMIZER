@@ -1,4 +1,4 @@
-![Supply Chain & Logistics Intelligence Platform Banner](banner.png)
+![Supply Chain & Logistics Intelligence Platform Banner](https://raw.githubusercontent.com/steph45acke-hue/A_SUPPLY_CHAIN_AND_LOGISTICS_OPTIMIZER/main/banner.png)
 
 # 🚚 Supply Chain & Logistics Intelligence Platform
 
@@ -10,7 +10,7 @@ This platform was built to solve the fragmentation typically found in regional s
 ---
 
 ## 🎯 The Reason Behind This Project
-As a  Statistics and Economics graduate  building towards a career in data science and analytics, I created this platform to bridge the gap between theoretical quantitative models and real-world enterprise operations. Rather than building isolated scripts or static dashboards, this project was designed as a complete, end-to-end portfolio piece to demonstrate my capability in:
+As a Statistics and Economics graduate building towards a career in data science and analytics, I created this platform to bridge the gap between theoretical quantitative models and real-world enterprise operations. Rather than building isolated scripts or static dashboards, this project was designed as a complete, end-to-end portfolio piece to demonstrate my capability in:
 - Engineering relational database schemas and extracting clean analytical views using **MySQL**.
 - Developing production-ready machine learning models using **Scikit-Learn** for predictive cost estimation.
 - Designing interactive, data-driven web applications and geospatial visualizations using **Python, Streamlit, and PyDeck**.
@@ -52,43 +52,43 @@ This platform automates and unifies the entire workflow:
 
 <p align="center">
   <b>Shipment Details View</b><br>
-  <img src="Screenshot%20(173).png" width="85%"><br><br>
+  <img src="https://raw.githubusercontent.com/steph45acke-hue/A_SUPPLY_CHAIN_AND_LOGISTICS_OPTIMIZER/main/Screenshot%20(173).png" width="85%"><br><br>
   
   <b>Carrier Performance View</b><br>
-  <img src="Screenshot%20(174).png" width="85%"><br><br>
+  <img src="https://raw.githubusercontent.com/steph45acke-hue/A_SUPPLY_CHAIN_AND_LOGISTICS_OPTIMIZER/main/Screenshot%20(174).png" width="85%"><br><br>
   
   <b>Warehouse Activity View</b><br>
-  <img src="Screenshot%20(175).png" width="85%"><br><br>
+  <img src="https://raw.githubusercontent.com/steph45acke-hue/A_SUPPLY_CHAIN_AND_LOGISTICS_OPTIMIZER/main/Screenshot%20(175).png" width="85%"><br><br>
   
   <b>Route Cost & Distance Efficiency View</b><br>
-  <img src="Screenshot%20(176).png" width="85%"><br><br>
+  <img src="https://raw.githubusercontent.com/steph45acke-hue/A_SUPPLY_CHAIN_AND_LOGISTICS_OPTIMIZER/main/Screenshot%20(176).png" width="85%"><br><br>
   
   <b>Executive Monthly Summary View</b><br>
-  <img src="Screenshot%20(177).png" width="85%"><br><br>
+  <img src="https://raw.githubusercontent.com/steph45acke-hue/A_SUPPLY_CHAIN_AND_LOGISTICS_OPTIMIZER/main/Screenshot%20(177).png" width="85%"><br><br>
   
   <b>Carrier Ranking View</b><br>
-  <img src="Screenshot%20(178).png" width="85%"><br><br>
+  <img src="https://raw.githubusercontent.com/steph45acke-hue/A_SUPPLY_CHAIN_AND_LOGISTICS_OPTIMIZER/main/Screenshot%20(178).png" width="85%"><br><br>
   
   <b>Monthly Financial Trends View</b><br>
-  <img src="Screenshot%20(179).png" width="85%">
+  <img src="https://raw.githubusercontent.com/steph45acke-hue/A_SUPPLY_CHAIN_AND_LOGISTICS_OPTIMIZER/main/Screenshot%20(179).png" width="85%">
 </p>
 
 * **Explanation:** These screenshots capture the database engineering foundation inside MySQL Workbench. They show the creation and verification of normalized tables and analytical views (`vw_shipment_details`, `vw_carrier_performance`, `vw_warehouse_activity`, `vw_route_efficiency`, and `vw_monthly_summary`), which aggregate millions of rows of supply chain telemetry into clean data sources ready for python ingestion.
 
 ### 2. Python Terminal Pipelines & Model Training Layer
 * **Visual Representation:** 
-  * ![Python Terminal Database Connection Test](Screenshot%20(180).png)
-  * ![Scikit-Learn Model Training Output](Screenshot%20(181).png)
+  * ![Python Terminal Database Connection Test](https://raw.githubusercontent.com/steph45acke-hue/A_SUPPLY_CHAIN_AND_LOGISTICS_OPTIMIZER/main/Screenshot%20(180).png)
+  * ![Scikit-Learn Model Training Output](https://raw.githubusercontent.com/steph45acke-hue/A_SUPPLY_CHAIN_AND_LOGISTICS_OPTIMIZER/main/Screenshot%20(181).png)
 * **Explanation:** These terminal execution captures demonstrate the backend data connection and machine learning training pipeline. They verify successful database connectivity via `db.py` returning sample records, and show the execution of `model.py` generating statistical summaries and training the Scikit-Learn linear regression cost predictor, achieving a high accuracy score ($R^2 = 0.9454$) with calculated distance and weight coefficients.
 
 ### 3. Streamlit Executive Dashboard & Geospatial Hub
 * **Visual Representation:** 
-  * ![Regional Logistics Hub Map View](Screenshot%20(185).jpg)
-  * ![Executive KPIs and Geospatial Hub Header](Screenshot%20(186).jpg)
-  * ![Executive Dashboard and Predictive Cost Estimator](Screenshot%20(182).png)
-  * ![Monthly Spend Trend and Carrier On-Time Performance Charts](Screenshot%20(183).png)
-  * ![Complete Route Efficiency Data Explorer Grid](Screenshot%20(184).png)
-  * ![Complete Route Efficiency Data Explorer Grid Alternative View](Screenshot%20(187).png)
+  * ![Regional Logistics Hub Map View](https://raw.githubusercontent.com/steph45acke-hue/A_SUPPLY_CHAIN_AND_LOGISTICS_OPTIMIZER/main/Screenshot%20(185).jpg)
+  * ![Executive KPIs and Geospatial Hub Header](https://raw.githubusercontent.com/steph45acke-hue/A_SUPPLY_CHAIN_AND_LOGISTICS_OPTIMIZER/main/Screenshot%20(186).jpg)
+  * ![Executive Dashboard and Predictive Cost Estimator](https://raw.githubusercontent.com/steph45acke-hue/A_SUPPLY_CHAIN_AND_LOGISTICS_OPTIMIZER/main/Screenshot%20(182).png)
+  * ![Monthly Spend Trend and Carrier On-Time Performance Charts](https://raw.githubusercontent.com/steph45acke-hue/A_SUPPLY_CHAIN_AND_LOGISTICS_OPTIMIZER/main/Screenshot%20(183).png)
+  * ![Complete Route Efficiency Data Explorer Grid](https://raw.githubusercontent.com/steph45acke-hue/A_SUPPLY_CHAIN_AND_LOGISTICS_OPTIMIZER/main/Screenshot%20(184).png)
+  * ![Complete Route Efficiency Data Explorer Grid Alternative View](https://raw.githubusercontent.com/steph45acke-hue/A_SUPPLY_CHAIN_AND_LOGISTICS_OPTIMIZER/main/Screenshot%20(187).png)
 * **Explanation:** These interface screenshots illustrate the frontend web application built using Streamlit and PyDeck. They display the top-level executive KPI metrics (Total Logistics Spend, Total Tracked Shipments, and Average Cost per Kilometer), the 3D PyDeck arc-line map mapping active trade routes across East African transit nodes, the interactive machine learning slider widget estimating shipping costs in real-time, the analytical charts tracking monthly financial trends and carrier on-time performance percentages, and the fully interactive data explorer grid housing complete route efficiency records.
 
 ---
