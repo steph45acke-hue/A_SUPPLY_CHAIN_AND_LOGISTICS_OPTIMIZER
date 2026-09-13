@@ -1,4 +1,4 @@
-![Banner](https://cdn.jsdelivr.net/gh/steph45acke-hue/A_SUPPLY_CHAIN_AND_LOGISTICS_OPTIMIZER@main/assets/banner.png)
+![Banner](https://cdn.jsdelivr.net/gh/steph45acke-hue/A_SUPPLY_CHAIN_AND_LOGISTICS_OPTIMIZER@main/banner.png)
 # 🚚 Supply Chain & Logistics Intelligence Platform
 
 ## 📖 Project Overview & Story
