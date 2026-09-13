@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/steph45acke-hue/A_SUPPLY_CHAIN_AND_LOGISTICS_OPTIMIZER/main/banner.png" alt="Supply Chain & Logistics Intelligence Platform Banner" width="100%">
-</p>
-
+![Banner](https://cdn.jsdelivr.net/gh/steph45acke-hue/A_SUPPLY_CHAIN_AND_LOGISTICS_OPTIMIZER@main/assets/banner.png)
 # 🚚 Supply Chain & Logistics Intelligence Platform
 
 ## 📖 Project Overview & Story
